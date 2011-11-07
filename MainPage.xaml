@@ -13,7 +13,7 @@
         
 
 
-<!--TargetType="local:TestControl"-->
+
         <Style TargetType="sdk:Label" >
             <Setter Property="Template">
                 <Setter.Value>
