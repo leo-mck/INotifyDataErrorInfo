@@ -10,7 +10,7 @@
 
     
     <UserControl.Resources>
-        <local:ErrorConverter x:Key="ErrorConverter"/>
+        
 
 
 <!--TargetType="local:TestControl"-->
